@@ -19,6 +19,7 @@ public class Main extends Application {
     private static final double SECOND_DELAY = 1.0 / FRAMES_PER_SECOND;
 
     private ExampleGame myGame;
+    private String hello;
 
 
     /**
