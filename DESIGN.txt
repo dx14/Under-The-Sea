@@ -1,0 +1,9 @@
+Genre: Real time strategy for the walking mode of the game, and turn based strategy for the battling phase of the game.
+
+Title: Under the Sea
+
+Goal: The goal of this game is to control a fish in the ocean and to reach their anemone home. 
+
+Basic Mechanics: The game allows the user to control a clownfish and its movement by using the up, down, left and right arrows. The fish moves in an ocean with other bigger fish around. If the clownfish collides with another fish, then they will engage in a battle (a different interface). The clownfish will have different moves to use, and if he survives, then he can continue onwards on his journey to his home. However, any Health Points the clownfish loses, he loses it permanently. If the clownfish loses all of his health points, then it is game over. If the fish gets to his home with health points remaining, the game is won.
+
+Modes: There will be a real-time mode where the user is able to control the direction of which the fish moves. If the fish collides with another sea creature, then the mode will change into that of a turn based battle.
